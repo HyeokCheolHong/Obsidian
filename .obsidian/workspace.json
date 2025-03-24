@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "14451a5e096e2e7f",
+        "id": "9ff1939977b18612",
         "type": "tabs",
         "children": [
           {
-            "id": "30f3fa3d107f733f",
+            "id": "e7503395c5b4fabf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_React/11..md",
+                "file": "1_Java/KGITBank_Java/6_객체(Object).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11."
-            }
-          },
-          {
-            "id": "0b4a5402b39cb7ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3_Git/4. 깃허브 시작하기.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. 깃허브 시작하기"
+              "title": "6_객체(Object)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -189,20 +175,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b4a5402b39cb7ef",
+  "active": "e7503395c5b4fabf",
   "lastOpenFiles": [
-    "1. Gradle.md",
+    "1_Java/KGITBank_Java/14_built-in class.md",
+    "1_Java/KGITBank_Java/6_객체(Object).md",
     "3_Git/4. 깃허브 시작하기.md",
+    "1_Java/KGITBank_Java/12_abstract.md",
+    "1_Java/KGITBank_Java/5_repeat.md",
+    "2_JAVA/0_용어.md",
+    "2_JAVA",
+    "1_Java/KGITBank_Java/7_array.md",
+    "1_Java/KGITBank_Java/8_class.md",
+    "1_Java/KGITBank_Java/10_Constructor-Hong_Gram.md",
+    "1_Java/KGITBank_Java/15_equals.md",
+    "1_Java/KGITBank_Java/19_Swing.md",
+    "1_Java/KGITBank_Java/1_ERROR/JAVA Code Block 실행시 한글 깨짐.md",
+    "1_Java/KGITBank_Java/2_Built_In_Method_Type/StringBuffer_Method.md",
+    "1_Java/KGITBank_Java/0_용어.md",
+    "1. Gradle.md",
     "8_Spring/0. 설정.md",
     "4_Spring/Attachments/Pasted image 20241127142035.png",
     "4_Spring/Attachments/Pasted image 20241127141415.png",
@@ -230,23 +230,9 @@
     "8_Spring/3. 스프링 JPA.md",
     "8_Spring/99.as.md",
     "Excalidraw/Drawing 2024-12-16 21.59.48.excalidraw.md",
-    "80_목표/2-1 브레인스토밍 및 기능 정리.md",
-    "80_목표/2-0 일정 관리앱 만들어 보기.md",
-    "80_목표/1_ 창의적 아이디어 얻기.md",
-    "35_Mybatis/무제 파일.md",
-    "20_React/1. 동작원리.md",
-    "20_React/2. 컴포넌트 CSS 스타일링.md",
-    "20_React/3. 함수 컴포넌트와 리액트 훅.md",
-    "20_React/4. 상태관리와 리덕스 패키지.md",
-    "20_React/5. 리액트 라우터.md",
-    "20_React/6. MongoDB와 API 서버.md",
-    "12_Servlet/3. DB연결.md",
-    "12_Servlet/2. 클래스 특징.md",
-    "12_Servlet/1. Servlet 파일 생성.md",
     "21_R/Attachments",
     "21_R",
     "Excalidraw",
-    "Attachments",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]
