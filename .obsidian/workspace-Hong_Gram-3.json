@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "80d08591ffe24c4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dc8f0fcf38ab877",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbea80c06cfd420a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KGITBank_Java/17_Drawing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "086c3b0732f36156",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdba36054fa7e5b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "138a393a376d5ffd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "469e2c5f39ee5653",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80cb9efa74b4593c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f16476fc23104e2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "71a223fc180167fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b76c750ca59e7414",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "KGITBank_Java/17_Drawing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "742b4b168de538d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "KGITBank_Java/17_Drawing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e37c2e77b8f632d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b5a8ad9bfab336fa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "KGITBank_Java/17_Drawing.md"
+              }
+            }
+          },
+          {
+            "id": "1c59774843be6a3e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "dbea80c06cfd420a",
+  "lastOpenFiles": [
+    "KGITBank_Java/17_Drawing.md",
+    "KGITBank_Ubuntu_Linux/4. 명령/무제 파일.md",
+    "KGITBank_Ubuntu_Linux/4. 명령/Attachments/Pasted image 20240830141845.png",
+    "Java/5_객체 지향 프로그래밍/객체 지향 프로그래밍이란.md",
+    "KGITBank_Ubuntu_Linux/4. 명령/Attachments/Pasted image 20240830114243.png",
+    "KGITBank_Ubuntu_Linux/4. 명령/Attachments/Pasted image 20240830114219.png",
+    "KGITBank_Ubuntu_Linux/4. 명령/Attachments/Pasted image 20240830114121.png",
+    "KGITBank_Ubuntu_Linux/4. 명령/Attachments/Pasted image 20240830114047.png",
+    "KGITBank_Ubuntu_Linux/4. 명령/Attachments/Pasted image 20240830114033.png",
+    "KGITBank_Ubuntu_Linux/4. 명령/Attachments/Pasted image 20240830114027.png",
+    "KGITBank_Ubuntu_Linux/4. 명령/Attachments/Pasted image 20240830113953.png",
+    "KGITBank_Ubuntu_Linux/4. 명령/Attachments/Pasted image 20240830113343.png",
+    "KGITBank_Ubuntu_Linux/4. 명령/Attachments/Pasted image 20240830113307.png",
+    "KGITBank_Ubuntu_Linux/4. 명령/Attachments",
+    "KGITBank_Ubuntu_Linux/4. 명령",
+    "KGITBank_Java/5_repeat.md",
+    "Java/5_객체 지향 프로그래밍",
+    "KGITBank_Java/6_객체(Object).md",
+    "KGITBank_Java/7_array.md",
+    "KGITBank_Java/4_switch.md",
+    "KGITBank_Java/3_if.md",
+    "KGITBank_Java/2_연산자.md",
+    "KGITBank_Java/1_JAVA 기초.md",
+    "2_JAVA/0_용어.md",
+    "2_JAVA",
+    "KGITBank_Java/2_Built_In_Method_Type/StringBuffer_Method.md",
+    "Java",
+    "KGITBank_Java/16_Built_In_Method.md",
+    "KGITBank_Java/15_equals.md",
+    "KGITBank_Java/2_Built_In_Method_Type",
+    "KGITBank_Ubuntu_Linux/2. 기본 설정/1. 가상머신 설정.md",
+    "KGITBank_Java/14_built-in class.md",
+    "Eng_Lesson/Phrase of the Day/미래의 계획이나 의도에 대해 이야기.md",
+    "Eng_Lesson/Phrase of the Day/선호도 표현.md",
+    "Eng_Lesson/Phrase of the Day/초대에 대한 감사 표현.md",
+    "Eng_Lesson/Phrase of the Day/중요하거나 의미 있는 정보를 소개함으로써 대화 시작.md",
+    "Eng_Lesson/Phrase of the Day/사물이나 개념 또는 상황에 대한 질문.md",
+    "Eng_Lesson/Phrase of the Day/다양한 상황에서 대화를 시작할 때, classic conversation opener.md",
+    "Eng_Lesson/Phrase of the Day/누군가가 말한 것을 확인하거나 명확히 하는 데 사용됨, 약간 짜증낼 때도...md",
+    "Eng_Lesson/Phrase of the Day/취향에 관한 대화, icebreaker in new social interactions.md",
+    "Eng_Lesson/Phrase of the Day",
+    "Eng_Lesson",
+    "KGITBank_Java/0_용어.md",
+    "KGITBank_Ubuntu_Linux/1. 사용법/2. Linux 문법.md",
+    "KGITBank_Java/Attachments",
+    "KGITBank_Java/1_ERROR",
+    "무제 파일.canvas",
+    "무제 파일 1.canvas"
+  ]
+}

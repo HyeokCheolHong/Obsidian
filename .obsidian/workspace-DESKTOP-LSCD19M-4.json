@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "80d08591ffe24c4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "077c295e64ba4085",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdf4b02753653aa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/1. 사용법/3_마크다운 문법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b387a8f4f9a76e33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/점프투자바/5_객체 지향 프로그래밍/클래스.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2aaa0af25952c182",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/이것이 자바다/5. 참조타입/1. 데이터 타입 분류.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "086c3b0732f36156",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdba36054fa7e5b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "138a393a376d5ffd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "469e2c5f39ee5653",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#User",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80cb9efa74b4593c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f16476fc23104e2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "71a223fc180167fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b76c750ca59e7414",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian/1. 사용법/3_마크다운 문법.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "742b4b168de538d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian/1. 사용법/3_마크다운 문법.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e37c2e77b8f632d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b5a8ad9bfab336fa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian/1. 사용법/3_마크다운 문법.md"
+              }
+            }
+          },
+          {
+            "id": "1c59774843be6a3e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "138a393a376d5ffd",
+  "lastOpenFiles": [
+    "Git",
+    "Java/이것이 자바다/5. 참조타입",
+    "Java/점프투자바/5_객체 지향 프로그래밍/클래스.md",
+    "Java/이것이 자바다/5. 참조타입/1. 데이터 타입 분류.md",
+    "Java/이것이 자바다",
+    "Java/점프투자바",
+    "Java/5_객체 지향 프로그래밍/클래스-Hong_Gram.md",
+    "Obsidian/1. 사용법/3_마크다운 문법.md",
+    "Java/점프투자바/5_객체 지향 프로그래밍/객체 지향 프로그래밍이란.md",
+    "Java/점프투자바/5_객체 지향 프로그래밍/Attachments/Pasted image 20240831153129.png",
+    "Java/점프투자바/5_객체 지향 프로그래밍/Attachments",
+    "KGITBank_Ubuntu_Linux/2. 기본 설정/2. 설정.md",
+    "KGITBank_Ubuntu_Linux/2. 기본 설정/1. 가상머신 설정.md",
+    "KGITBank_Java/15_equals.md",
+    "KGITBank_Java/16_Built_In_Method.md",
+    "KGITBank_Java/17_GUI.md",
+    "KGITBank_Java/5_repeat.md",
+    "KGITBank_Java/Attachments/Pasted image 20240830173622.png",
+    "KGITBank_Java/Attachments/Pasted image 20240830172222.png",
+    "KGITBank_Java/Attachments/Pasted image 20240830172109.png",
+    "KGITBank_Java/Attachments/Pasted image 20240830164644.png",
+    "KGITBank_Java/Attachments/Pasted image 20240830161455.png",
+    "KGITBank_Java/17_Drawing.md",
+    "17_Drawing.md",
+    "KGITBank_Ubuntu_Linux/4. 명령/Attachments/Pasted image 20240830141845.png",
+    "KGITBank_Ubuntu_Linux/4. 명령/Attachments/Pasted image 20240830114243.png",
+    "KGITBank_Ubuntu_Linux/4. 명령/Attachments/Pasted image 20240830114219.png",
+    "KGITBank_Ubuntu_Linux/4. 명령/Attachments/Pasted image 20240830114121.png",
+    "KGITBank_Ubuntu_Linux/4. 명령/Attachments",
+    "KGITBank_Ubuntu_Linux/4. 명령/무제 파일.md",
+    "KGITBank_Ubuntu_Linux/4. 명령",
+    "Java/점프투자바/5_객체 지향 프로그래밍",
+    "KGITBank_Java/6_객체(Object).md",
+    "KGITBank_Java/7_array.md",
+    "KGITBank_Java/4_switch.md",
+    "KGITBank_Java/3_if.md",
+    "KGITBank_Java/2_연산자.md",
+    "KGITBank_Java/1_JAVA 기초.md",
+    "2_JAVA/0_용어.md",
+    "2_JAVA",
+    "KGITBank_Java/2_Built_In_Method_Type/StringBuffer_Method.md",
+    "Java",
+    "KGITBank_Java/2_Built_In_Method_Type",
+    "KGITBank_Java/14_built-in class.md",
+    "Eng_Lesson/Phrase of the Day/미래의 계획이나 의도에 대해 이야기.md",
+    "Eng_Lesson/Phrase of the Day/선호도 표현.md",
+    "무제 파일.canvas",
+    "무제 파일 1.canvas"
+  ]
+}

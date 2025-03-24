@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "80d08591ffe24c4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "36d13f44e33ab6e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "468534d1361a1153",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_Oracle/1. 설명/MariaDB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MariaDB"
+            }
+          },
+          {
+            "id": "6f41187ad8317cff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_Oracle/3. SQLD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. SQLD"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "086c3b0732f36156",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdba36054fa7e5b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "138a393a376d5ffd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "469e2c5f39ee5653",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#User",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "80cb9efa74b4593c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f16476fc23104e2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "71a223fc180167fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b76c750ca59e7414",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3_Git/99. Error.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "99. Error의 백링크"
+            }
+          },
+          {
+            "id": "742b4b168de538d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3_Git/99. Error.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "99. Error의 나가는 링크"
+            }
+          },
+          {
+            "id": "e37c2e77b8f632d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b5a8ad9bfab336fa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2_Oracle/3. SQLD.md"
+              },
+              "icon": "lucide-list",
+              "title": "3. SQLD 개요"
+            }
+          },
+          {
+            "id": "1c59774843be6a3e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "6f41187ad8317cff",
+  "lastOpenFiles": [
+    "2_Oracle/1. 설명/MariaDB.md",
+    "2_Oracle/3. SQLD.md",
+    "3_Git/0. 문법.md",
+    "3_Git/5. 깃허브로 협업하기.md",
+    "98_Obsidian/1. 사용법/3_마크다운 문법.md",
+    "2_노트 연결.md",
+    "3_Git/10. Organization.md",
+    "2_Oracle/2. JDBC/0. 문법.md",
+    "2_Oracle/2. JDBC/3. dept01 실행.md",
+    "2_Oracle/2. JDBC/2. tbl_board7 실행.md",
+    "2_Oracle/2. JDBC/1. JDBC실행.md",
+    "3_Git/98. 궁금증.md",
+    "3_Git/Attachments/Pasted image 20241029000759.png",
+    "3_Git/Attachments/Pasted image 20241029000656.png",
+    "3_Git/Attachments/Pasted image 20241029000601.png",
+    "3_Git/Attachments/Pasted image 20241029000507.png",
+    "3_Git/Attachments/Pasted image 20241029000424.png",
+    "3_Git/Attachments/Pasted image 20241029000403.png",
+    "3_Git/Attachments/Pasted image 20241029000256.png",
+    "3_Git/Attachments/Pasted image 20241029000242.png",
+    "3_Git/Attachments/Pasted image 20241029000225.png",
+    "3_Git/Attachments/Pasted image 20241029000148.png",
+    "3_Git/99. Error.md",
+    "3_Git/3. 깃과 브랜치.md",
+    "3_Git/4. 깃허브 시작하기.md",
+    "2_Oracle/2. JDBC/4. 권한.md",
+    "6_JSP/무제 파일.md",
+    "6_JSP",
+    "1_Java/Team/4. 생성자.md",
+    "3_Git/2. 깃으로 버전 관리하기.md",
+    "1_Java/정규 표현식/0. 사이트.md",
+    "1_Java/정규 표현식/1. 정규식 문법.md",
+    "4_Front/HTML/1. JSP.md",
+    "1_Java/Team/3. 객체 지향 프로그래밍.md",
+    "4_Front/HTML/Attachments",
+    "4_Front/HTML",
+    "2_JAVA/0_용어.md",
+    "4_Front",
+    "1_Java/이것이 자바다/1. 자바시작하기/Java.md",
+    "1_Java/이것이 자바다/6. 클래스/1. 객체 지향 프로그래밍.md",
+    "1_Java/이것이 자바다/6. 클래스/Attachments",
+    "1_Java/이것이 자바다/6. 클래스",
+    "1_Java/Team/Attachments",
+    "Attachments",
+    "1_Java/Team",
+    "1_Java/이것이 자바다/4. 조건문과 반복문/Attachments",
+    "무제 파일.canvas",
+    "무제 파일 1.canvas"
+  ]
+}
